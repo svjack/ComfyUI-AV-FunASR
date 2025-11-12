@@ -1,7 +1,7 @@
 ## ComfyUI FunAsr Nodes
 
 ```bash
-pip install funasr addict datasets==2.16.0 modelscope==1.15.0
+pip install funasr addict datasets==2.16.0 modelscope==1.15.0 torchcodec 
 ```
 
 使用FunAsr进行语音识别，并转为文本或字幕文件。
